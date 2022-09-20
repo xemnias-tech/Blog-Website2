@@ -12,7 +12,7 @@ tags:
   - post
   - featured
 image: /asset/blog/austin-distel-rxpthowuvge-unsplash.jpg
-imageAlt: This is a test
+imageAlt: Business Intelegence
 ---
 <!--StartFragment-->
 
