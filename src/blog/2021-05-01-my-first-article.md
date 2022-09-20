@@ -1,19 +1,47 @@
 ---
-title: My First Article
-author: Kevin Powell
-date: 2021-05-01
-tags: ["post", "featured"]
+title: "Benefits of SEO "
+description: Do you own or manage a business that would benefit from increased
+  visibility online? Whether you already know that your website needs to be
+  optimized, or you just want to get an idea of how Search Engine Optimization
+  (SEO) can help your business grow, this article will provide the basics of
+  what search engine optimization is and why it’s so important for businesses
+  today. Here’s a look at some of the benefits of SEO for your business.
+author: Teevo.io
+date: 2022-09-20T17:00:00.000Z
+tags:
+  - post
+  - featured
 image: /assets/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: This Is Seo
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+**A Short Overview of SEO**
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+If you've ever been curious about what SEO is, it stands for Search Engine Optimization. Essentially, this just means optimizing your visibility on search engines like Google and Bing. This may sound like a great idea because no one wants to be lost in the dark corner of the internet where people never find them. However, if you don't know what you're doing when it comes to getting your business to rank higher on search engines then this can actually do more harm than good.
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+**How can SEO help your Business?**
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+ Well, it can help you stand out from your competitors. SEO optimizes your visibility online by determining how relevant and beneficial a particular website is to search engine users. This leads to more traffic and new customers as they are drawn in by all of your amazing content! The benefits, however, don’t stop there! When search engines rank a website high on their results pages, it’s because they have determined that site to be an authority on a specific topic.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+**How SEO Works**
+
+Search engines like Google use crawlers to find keywords and then rank a webpage based on the relevancy to those words. On their journey, the crawler indexes a webpage's content and compares it against other pages on the same site as well as on other sites across the web. Crawlers crawl through certain parts of your website over and over again, so if they don't see what they are looking for, they might not get past that page.
+
+**Keyword Analysis**
+
+The first step to good SEO is discovering the keywords you want to target with your content. Many keyword research tools are available for purchase on the internet and some are offered for free. A few common examples include Google Adwords, Google Trends, Yahoo Query Tool, and WordTracker. Once you have decided on a target keyword, be sure to write a few articles that contain only that word or phrase.
+
+**Backlink building**
+
+Before you get started, it's important to determine which keywords your business will rank well for. The best way to do this is to take a look at your competitor's ranking and see what words they are ranking well for. Once you have figured out the keywords that your site needs to rank on, it's time to use some keyword research tools (like Google Adwords) and put together a list of the best keywords that your site should be targeting.
+
+**Content creation**
+
+Search Engine Optimization (or SEO) is the process that allows websites to increase their ranking on search engines like Google, Bing, Yahoo and others. SEO helps you achieve visibility in your industry and ensures that customers will be able to find your business more easily. And if they can find you more easily, they're more likely to make a purchase with you. When properly executed, good SEO provides an edge over competition by providing an online footprint that rivals those of much larger organizations.
+
+**Visibility Attracts Clientele**
+
+Curious about the benefits of SEO? We'll cover them in this blog. Better ranking means more visibility, which can ultimately lead to higher quality leads. A better ranking also helps show off your expertise to new potential clients. There are two types of search engine optimization – organic and paid.
+
+<!--EndFragment-->
