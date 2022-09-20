@@ -1,18 +1,45 @@
 ---
-title: My Second Article
-author: Kevin Powell
-date: 2021-05-15
-image: /assets/blog/article-2.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+title: How Business Intelligence Can Help You Make Better Decisions
+description: Business intelligence (BI) has long been a buzzword in business
+  circles, as many executives and managers understand that there’s value in
+  having access to internal and external data. But what exactly does business
+  intelligence do? How can it help you make better decisions? Here are some of
+  the most important things that business intelligence helps you with, so you
+  can make informed decisions about your company’s future.
+author: teevo.io
+date: 2022-09-20T16:00:00.000Z
+tags:
+  - post
+  - featured
+image: /asset/blog/austin-distel-rxpthowuvge-unsplash.jpg
+imageAlt: Business Intelegence
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sit amet nulla facilisi morbi tempus iaculis urna id volutpat. Erat nam at lectus urna duis convallis convallis. Purus faucibus ornare suspendisse sed nisi. Mauris rhoncus aenean vel elit. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Tellus rutrum tellus pellentesque eu tincidunt tortor. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eu mi bibendum neque egestas congue quisque.
+**Business Intelligence Defined**
 
-Nec ultrices dui sapien eget mi proin sed libero enim. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Aliquam id diam maecenas ultricies mi. Faucibus in ornare quam viverra. Nisi est sit amet facilisis magna etiam tempor orci eu. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Cras pulvinar mattis nunc sed. Pharetra et ultrices neque ornare aenean euismod elementum. Urna duis convallis convallis tellus. Donec massa sapien faucibus et. Id faucibus nisl tincidunt eget nullam non. Quam pellentesque nec nam aliquam sem et tortor consequat.
+Business intelligence (BI) refers to the use of software systems to organize data for decision-making. With the help of business intelligence, you can make better decisions by quickly analyzing both quantitative and qualitative data from all aspects of your business operations. For example, if you have to choose between two new products to sell in your store, having the tools needed for business intelligence can help you compare customer feedback, product sales records, and other key metrics in order to decide which product will perform better. A good business intelligence system includes features like dashboards that summarize important information at a glance so you can easily monitor how well your business is doing.
 
-Ac auctor augue mauris augue neque. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Arcu ac tortor dignissim convallis aenean. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Porttitor eget dolor morbi non. Quis lectus nulla at volutpat diam ut venenatis tellus. Ultricies leo integer malesuada nunc vel risus. Facilisis sed odio morbi quis commodo odio aenean.
 
-Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Sit amet cursus sit amet dictum sit amet justo. Euismod lacinia at quis risus sed vulputate odio ut. Malesuada pellentesque elit eget gravida. Diam donec adipiscing tristique risus nec. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit. Porta nibh venenatis cras sed felis eget. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Orci phasellus egestas tellus rutrum. Ac felis donec et odio pellentesque diam volutpat commodo sed. Viverra nam libero justo laoreet sit amet cursus sit amet. Duis at consectetur lorem donec massa sapien faucibus. Et leo duis ut diam quam nulla porttitor massa. Eros donec ac odio tempor. Massa ultricies mi quis hendrerit. Semper quis lectus nulla at volutpat diam ut venenatis.
 
-Urna condimentum mattis pellentesque id nibh tortor id aliquet. Mollis nunc sed id semper risus in. Morbi blandit cursus risus at ultrices mi. Lectus vestibulum mattis ullamcorper velit. Facilisis mauris sit amet massa vitae tortor. Ullamcorper sit amet risus nullam. Nunc sed blandit libero volutpat sed. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Convallis convallis tellus id interdum velit laoreet id. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Non nisi est sit amet facilisis magna etiam tempor. Nisl nunc mi ipsum faucibus vitae.
+**What Is Machine Learning?**
+
+Machine learning has been around for decades, but it's only recently that advances in artificial intelligence have made machine learning feasible to implement on a wide scale. And, with more and machine-learning companies cropping up every day, this tech has finally gone mainstream. The idea is quite simple: machines learn from data so the more data they get the better the predictions they can make about outcomes. For example, an online retailer might want to know what products shoppers are most likely to buy together. With machine learning, the company could use past purchase data and tell what other items customers tend to buy when they purchase a certain item. That’s not all though; machine learning can also be used for fraud detection and supply chain management among other applications.
+
+
+
+**Artificial Intelligence in Business**
+
+Business intelligence is just one way artificial intelligence is being used to make more informed decisions. AI systems are also helping automate a number of processes, such as data entry and analyzing the results. From tasks that involve creativity, like writing reports or preparing presentations, to data processing tasks, AI is making many aspects of business easier and more efficient. One area where this has been most helpful is with customer service interactions. For example, in one study by SAP SE it was found that AI-driven virtual assistants helped answer customers’ questions at a rate six times higher than their human counterparts—and there were no complaints about rudeness! 
+
+By integrating technologies like machine learning and natural language processing into your enterprise’s systems, you can take advantage of these benefits for yourself.
+
+
+
+**The Role of Big Data In Business Intelligence**
+
+Business intelligence (BI) is the process of utilizing data collected from a business to help make better decisions and for general company guidance. It covers many things including data analysis, use of reporting tools, and training to understand what the metrics are saying about a company's health. One of the most common applications for BI is using big data to help determine what might be popular in different markets. An analytics team can often sift through huge amounts of information gathered from all over the world in order to see which products or services have potential based on sales or other factors that might show popularity. This is much more efficient than having someone examine one market at a time because it makes sense to look at global trends before they happen.
+
+
+
+<!--EndFragment-->

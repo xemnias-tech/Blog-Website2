@@ -1,18 +1,61 @@
 ---
-title: My Fourth Article
-author: Kevin Powell
-date: 2021-06-01
+title: Why You Should Start Learning Machine Learning Today
+description: " Machine learning has quickly become one of the most popular and
+  fastest-growing fields in computer science. If you’re just starting out, this
+  field can seem daunting, but it doesn’t have to be—if you know where to start.
+  In this guide on machine learning, we’ll go over why you should learn machine
+  learning today and how to get started on your path to becoming an expert
+  machine learner."
+author: teevo.io
+date: 2022-09-20T16:00:00.000Z
+tags:
+  - featured
 image: /assets/blog/article-4.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In mollis nunc sed id semper risus in. Elit eget gravida cum sociis natoque penatibus. Enim facilisis gravida neque convallis a cras semper. Eget nulla facilisi etiam dignissim diam quis. Odio aenean sed adipiscing diam donec adipiscing tristique risus nec. Quisque id diam vel quam elementum pulvinar etiam. Congue mauris rhoncus aenean vel elit scelerisque mauris. Amet risus nullam eget felis eget nunc. Tellus in hac habitasse platea dictumst. Maecenas accumsan lacus vel facilisis volutpat. Lorem ipsum dolor sit amet consectetur adipiscing. A scelerisque purus semper eget duis at tellus at. Magna fringilla urna porttitor rhoncus dolor purus non. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl.
+**Career in Data Science Requires Computer Science Basics**
 
-Donec adipiscing tristique risus nec feugiat in fermentum. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Duis at tellus at urna condimentum. Commodo odio aenean sed adipiscing diam donec adipiscing. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Augue eget arcu dictum varius. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Ut tellus elementum sagittis vitae. Semper risus in hendrerit gravida rutrum. Eu sem integer vitae justo eget. Urna id volutpat lacus laoreet non curabitur gravida. Tempus imperdiet nulla malesuada pellentesque. Est pellentesque elit ullamcorper dignissim.
+It doesn't matter if you are in business, marketing, the humanities, social sciences or a STEM field; you will inevitably find yourself facing a situation where a data scientist would be useful. Therefore, it pays to have at least an introductory knowledge of data science in order to have some of the skills needed when hiring one. Computer Science basics are also an essential part of being able to use machine learning techniques effectively.
 
-Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Netus et malesuada fames ac. Tortor pretium viverra suspendisse potenti. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Quis vel eros donec ac odio tempor. Auctor urna nunc id cursus metus aliquam eleifend mi in. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Turpis massa tincidunt dui ut. Eu facilisis sed odio morbi quis commodo. Pellentesque habitant morbi tristique senectus et netus et. Facilisis volutpat est velit egestas dui id. Elementum facilisis leo vel fringilla est ullamcorper eget. Tempor nec feugiat nisl pretium fusce. Proin sagittis nisl rhoncus mattis rhoncus urna. Luctus venenatis lectus magna fringilla. Ut venenatis tellus in metus vulputate eu scelerisque felis. Velit aliquet sagittis id consectetur. Erat velit scelerisque in dictum non consectetur. Pulvinar elementum integer enim neque volutpat ac.
+**Get an Intro to Data Science Course**
 
-Commodo nulla facilisi nullam vehicula ipsum a. Posuere urna nec tincidunt praesent. Eleifend donec pretium vulputate sapien nec. Dolor sit amet consectetur adipiscing. Blandit libero volutpat sed cras ornare arcu dui vivamus. Cras ornare arcu dui vivamus arcu felis bibendum. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Maecenas accumsan lacus vel facilisis volutpat est velit. Lectus sit amet est placerat in egestas erat imperdiet. Augue lacus viverra vitae congue eu. Et pharetra pharetra massa massa. Faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Id faucibus nisl tincidunt eget nullam non nisi est sit. Id porta nibh venenatis cras sed felis. Velit egestas dui id ornare arcu odio ut sem. Libero justo laoreet sit amet cursus sit amet. Mi quis hendrerit dolor magna eget est lorem.
+Machine learning is a form of artificial intelligence (AI) that allows computers to teach themselves. Machine learning uses data to make predictions and then continually learn from new information. With machine learning, machines are able to automate data-driven tasks like searching for faces in photos or translating languages.
 
-Feugiat in ante metus dictum at. Nunc sed velit dignissim sodales. Odio aenean sed adipiscing diam donec adipiscing. Diam quam nulla porttitor massa id neque aliquam. Cras adipiscing enim eu turpis egestas pretium aenean pharetra. Elementum curabitur vitae nunc sed. Pretium fusce id velit ut tortor pretium viverra suspendisse potenti. Nisi vitae suscipit tellus mauris a. Id aliquet lectus proin nibh. Tortor posuere ac ut consequat semper viverra. Nunc consequat interdum varius sit. Dictum fusce ut placerat orci. Nibh praesent tristique magna sit amet purus gravida quis. Donec ultrices tincidunt arcu non sodales neque sodales ut.
+**Learn Python or R**
+
+Now that you've decided to start learning machine learning, you need to decide what tool to use. There are many options available, but the most popular languages right now are Python and R. They have a few differences, with Python being more clear and concise, while R is often used in universities and research settings. Personally I prefer Python because it's easier for beginners to grasp quickly, but ultimately it comes down to your personal preference. To get started with either language head over to python or r-tutorials for an introduction on the basics of each programming language
+
+**Download The Anaconda Distribution**
+
+Anaconda is an easy-to-install package that includes over 100 popular packages for data science and machine learning such as Python, R, Jupyter Notebook, Julia, Miniconda, Spyder IDE (Python), NumPy and more. Machine learning projects can be run in a Windows/MacOS environment with GPU support.
+
+**Use Jupyter Notebooks**
+
+If you want to start learning machine learning, where do you start? One good place is with a free book that shows how to use Jupyter Notebooks for exploratory programming, interactive plotting and analyzing data, and developing machine learning models. After downloading Anaconda, the Python Distribution for Data Science (which includes Jupyter Notebook), use pip to install matplotlib and scikit-learn:
+
+`pip install matplotlib pip install scikit-learn`
+
+**Practice, Practice, Practice**
+
+So, what’s the best way to start learning machine learning? Well, you don’t need to wait for a class; you can jump right in by practicing! The easiest way to do this is by starting a Kaggle competition. There are also many free tutorials on YouTube. All of these avenues are great for getting you started with the basics. The more you practice, the better at machine learning you’ll become!
+
+
+
+**Check Out Our Webinar on Big Data Analytics with Python**
+
+We are running a webinar next week on how you can start learning machine learning today. Topics include: 
+
+1. Why you should start learning machine learning today and why Python is an ideal language for that. 
+2. Overview of the data analysis lifecycle. 
+3. Determining your use case or problem space. 
+4. How to explore your data sets with pandas, matplotlib, seaborn, and scikit-learn libraries in order to better understand what techniques would be best for your use case or problem space. We will show live coding examples in Python from beginning to end, so that participants get hands-on experience with some of the most popular tools for analyzing data sets!
+
+**Find a Mentor or Fellow Student**
+
+Your best bet is to find a mentor. Many people in the field work as mentors, in either formal or informal roles. This includes professors at universities and other academic institutions, industry practitioners, and other entrepreneurs or technologists who are successful at what they do. A mentor can give you time-sensitive input on your progress, feedback on your ideas or early versions of your product, coaching when you need motivation or help prioritizing what to focus on next, and introductions to their networks when you need help fundraising or scaling. You can also find a peer group in the form of a local meetup group with other aspiring machine learners.
+
+
+
+<!--EndFragment-->
