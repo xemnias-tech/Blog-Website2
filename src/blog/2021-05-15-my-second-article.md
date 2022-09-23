@@ -11,7 +11,7 @@ date: 2022-09-20T16:00:00.000Z
 tags:
   - post
   - featured
-image: public/assets/blog/austin-distel-rxpthowuvge-unsplash.jpg
+image: /assets/blog/austin-distel-rxpthowuvge-unsplash.jpg
 imageAlt: Business Intelegence
 ---
 <!--StartFragment-->
